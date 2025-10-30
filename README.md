@@ -2,18 +2,18 @@
   <img src="dashboard_preview.png" alt="Adventure Works Sales Analysis Dashboard" width="800">
 </p>
 
-# 📊 Adventure Works Sales Analysis
+# Adventure Works Sales Analysis
 
 > Interactive Excel dashboard visualizing business performance and profit trends over multiple years using dynamic charts, slicers, and KPI cards. Built to demonstrate strong data analytics, visualization, and reporting skills for data-driven insights.
 
 
 
-## 🧭 Overview
+## Overview
 
 This project focuses on creating **visual representations of data** to assess business performance over multiple years and analyze overall profitability.  
 The dashboard leverages interactive Excel features such as slicers, PivotTables, and dynamic charts to uncover key trends and insights.
 
----
+
 
 ## 🗂️ Data Model and Tables
 
