@@ -5,12 +5,12 @@
 This project focuses on creating **visual representations of data** to assess business performance over multiple years and analyze overall profitability.  
 The dashboard leverages interactive Excel features such as slicers, PivotTables, and dynamic charts to uncover key trends and insights.
 
-## 🗂️ Data Model and Tables
+## Data Model and Tables
 
 The dataset follows a **star schema structure**, consisting of multiple dimension tables connected to a central fact table.  
 This structure enables efficient data analysis, filtering, and performance tracking across different dimensions.
 
-### 📋 Tables Used
+### Tables Used
 
 1. **FactInternetSales**  
    - The central fact table containing detailed sales transactions.  
@@ -36,15 +36,15 @@ This structure enables efficient data analysis, filtering, and performance track
    - Provides date-related information for time-based analysis.  
    - **Key Fields:** DateKey, FullDateAlternateKey, CalendarYear, MonthName, Quarter, Weekday  
 
----
-
 This relational structure supports multi-dimensional analysis, enabling insights across **time, geography, product, and customer segments** while linking back to key sales and profitability metrics in the Fact table.
+--
 
 ### 🎯 Project Objectives
 The goal of this dashboard is to:
 - Evaluate business performance over time
 - Analyze profit trends and key financial metrics
 - Provide data-driven insights to support better decision-making
+--
 
 ### 📊 Dashboard Insights & Components
 
@@ -67,6 +67,11 @@ The goal of this dashboard is to:
    - Examines **profit performance on specific weekdays** to reveal operational or customer behavior patterns.
 
 ---
+
+### Preview 
+Here's a screenshot of the dashboard.
+![Dashboard Screenshot](dashboard_preview.png)
+
 
 This dashboard demonstrates the power of Excel in transforming raw data into actionable insights through **data visualization, analytical modeling, and interactive reporting**.
 
