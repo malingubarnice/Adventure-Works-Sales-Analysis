@@ -15,12 +15,12 @@ The dashboard leverages interactive Excel features such as slicers, PivotTables,
 
 
 
-## 🗂️ Data Model and Tables
+##  Data Model and Tables
 
 The dataset follows a **star schema structure**, consisting of multiple dimension tables connected to a central fact table.  
 This structure enables efficient data analysis, filtering, and performance tracking across different dimensions.
 
-### 📋 Tables Used
+###  Tables Used
 
 1. **FactInternetSales**  
    - Central fact table containing detailed sales transactions.  
@@ -46,18 +46,18 @@ This structure enables efficient data analysis, filtering, and performance track
    - Provides date-related information for time-based analysis.  
    - **Key Fields:** DateKey, FullDateAlternateKey, CalendarYear, MonthName, Quarter, Weekday  
 
----
 
-## 🎯 Project Objectives
+
+##  Project Objectives
 
 The goal of this dashboard is to:
 - Evaluate business performance over time  
 - Analyze profit trends and key financial metrics  
 - Provide data-driven insights to support better decision-making  
 
----
 
-## 📊 Dashboard Insights & Components
+
+##  Dashboard Insights & Components
 
 1. **KPI Comparison to Previous Year**  
    - Compares **COGS, Revenue, Quantity, Profit, Profit Margin**, and **Transactions** against the previous year to track growth and performance changes.  
@@ -76,15 +76,6 @@ The goal of this dashboard is to:
 
 6. **Profit by Weekday**  
    - Examines **profit performance by weekday**, revealing operational or customer behavior patterns.  
-
----
-
-## 🖼️ Dashboard Preview
-
-Here’s a screenshot of the dashboard:  
-<p align="center">
-  <img src="dashboard_preview.png" alt="Adventure Works Sales Dashboard Preview" width="800">
-</p>
 
 ---
 
