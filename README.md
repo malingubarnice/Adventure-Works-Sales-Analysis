@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dashboard_preview.png" alt="Adventure Works Sales Analysis Dashboard" width="800">
+  <img src="dashboard_preview1.png" alt="Adventure Works Sales Analysis Dashboard" width="800">
 </p>
 
 # Adventure Works Sales Analysis
