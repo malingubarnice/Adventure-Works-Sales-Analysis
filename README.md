@@ -1,6 +1,6 @@
 # Adventure-Works-Sales-Analysis
 
-## Overview
+# Overview
 
 This project focuses on creating **visual representations of data** to assess business performance over multiple years and analyze overall profitability.  
 The dashboard leverages interactive Excel features such as slicers, PivotTables, and dynamic charts to uncover key trends and insights.
@@ -36,7 +36,6 @@ This structure enables efficient data analysis, filtering, and performance track
    - Provides date-related information for time-based analysis.  
    - **Key Fields:** DateKey, FullDateAlternateKey, CalendarYear, MonthName, Quarter, Weekday  
 
-This relational structure supports multi-dimensional analysis, enabling insights across **time, geography, product, and customer segments** while linking back to key sales and profitability metrics in the Fact table.
 --
 
 ### 🎯 Project Objectives
