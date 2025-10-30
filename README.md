@@ -36,16 +36,16 @@ This structure enables efficient data analysis, filtering, and performance track
    - Provides date-related information for time-based analysis.  
    - **Key Fields:** DateKey, FullDateAlternateKey, CalendarYear, MonthName, Quarter, Weekday  
 
---
+---
 
-### 🎯 Project Objectives
+### Project Objectives
 The goal of this dashboard is to:
 - Evaluate business performance over time
 - Analyze profit trends and key financial metrics
 - Provide data-driven insights to support better decision-making
 --
 
-### 📊 Dashboard Insights & Components
+### Dashboard Insights & Components
 
 1. **KPI Comparison to Previous Year**  
    - Compares key metrics such as **Cost of Goods Sold (COGS)**, **Revenue**, **Quantity**, **Profit**, **Profit Margin**, and **Transactions** against the previous year to track growth and performance changes.
