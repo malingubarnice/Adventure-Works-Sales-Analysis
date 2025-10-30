@@ -6,7 +6,7 @@
 
 > Interactive Excel dashboard visualizing business performance and profit trends over multiple years using dynamic charts, slicers, and KPI cards. Built to demonstrate strong data analytics, visualization, and reporting skills for data-driven insights.
 
----
+
 
 ## 🧭 Overview
 
