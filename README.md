@@ -1,19 +1,14 @@
 # Adventure-Works-Sales-Analysis
----
 
 # Overview
 
 This project focuses on creating **visual representations of data** to assess business performance over multiple years and analyze overall profitability.  
 The dashboard leverages interactive Excel features such as slicers, PivotTables, and dynamic charts to uncover key trends and insights.
 
----
-
 ## Data Model and Tables
 
 The dataset follows a **star schema structure**, consisting of multiple dimension tables connected to a central fact table.  
 This structure enables efficient data analysis, filtering, and performance tracking across different dimensions.
-
----
 
 ### Tables Used
 
